@@ -1,2 +1,12 @@
-# urls
-github payload urls 
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/csv-injection.md
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/rce.md
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md
+https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/
