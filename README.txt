@@ -1,4 +1,6 @@
 https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/vulns.md
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/blogposts.md
 https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md
 https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md
 https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md
