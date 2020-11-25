@@ -13,3 +13,4 @@ https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/templ
 https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md
 https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/
 https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+https://hharishreddy.github.io/mypage/
